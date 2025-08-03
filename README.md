@@ -94,3 +94,7 @@
 - [Jekyll](https://jekyllrb.com/docs/)
 - [Markdown 指南](https://www.markdownguide.org/)
 - [Open Graph 協議](https://ogp.me/)
+
+```
+powershell -Command "Get-FileHash -Algorithm SHA256 -InputStream ([System.IO.MemoryStream]::new([System.Text.Encoding]::UTF8.GetBytes('{你的密碼}'))) | Select-Object -ExpandProperty Hash"
+```

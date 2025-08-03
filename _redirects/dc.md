@@ -1,8 +1,8 @@
 ---
 layout: password
-title: "ICED Google Share Drive"
-description: "ICED Google 共用雲端硬碟，請以 *@nehs.hc.edu.tw 登入存取。"
-password: "iced1234"
+title: "ICED 11th Discord"
+description: "ICED 11th Discord."
+password: "DF2B8FA7EF91543C36C114ECA660BCD37B57B31663626E90CF71BEEFDB3D99B6"
 image: "https://market.cloud.edu.tw/image/1696211"
-redirect_to: "https://drive.google.com/drive/folders/0ADedHpB77EfiUk9PVA"
+redirect_to: "https://discord.gg/AP7ap69n"
 ---
